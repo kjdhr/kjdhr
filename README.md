@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # header
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=높이&section=header&text=Donghyeon's GitHub&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=30&section=header&text=Donghyeon's GitHub&fontSize=10" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
