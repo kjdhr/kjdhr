@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 ![js](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
 
-![Donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green&show_icons=true)
+![Donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donghyeon&theme=blue-green&show_icons=true)
 </div>
