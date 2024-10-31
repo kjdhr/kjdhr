@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# header
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Donghyeon's%20GitHub&fontSize=40" />
+
+<div align=center>
+<h3>안녕하세요! 진동현입니다 :smile:
+</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
