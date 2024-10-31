@@ -22,25 +22,25 @@ Here are some ideas to get you started:
 </h3>
 
 📚 Studying Languages 📚
-#CSharp
+# CSharp
 ![js](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-#C++
+# C++
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-#Python
+# Python
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-#Unity
+# Unity
 ![js](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 🎮 Favorite Games 🎮
-#RiotGames
+# RiotGames
 ![js](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-#Fifa
+# Fifa
 ![js](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
-#Steam
+# Steam
 ![js](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-#EpicGames
+# EpicGames
 ![js](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-#BattleNet
+# BattleNet
 ![js](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
 
 ![Donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green&show_icons=true)
