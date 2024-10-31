@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 
 🎮 Favorite Games 🎮
 #RiotGames
-https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white
+![js](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 #Fifa
-https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white
+![js](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
 #Steam
-https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+![js](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 #EpicGames
-https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white
+![js](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 #BattleNet
-https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF
+![js](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green&show_icons=true)
+![Donghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blue-green&show_icons=true)
